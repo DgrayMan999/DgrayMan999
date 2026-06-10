@@ -11,3 +11,7 @@ I am a Computer Science student focused on technical exploration, both offensive
 * Analyze network traffic and system vulnerabilities to understand both how to break systems and how to secure them.
 * Script automation tools to streamline workflows, defensive monitoring, and network analysis.
 * Bridge the gap between software development and deep security concepts.
+
+<img src="https://raw.githubusercontent.com/DgrayMan999/DgrayMan999/snake-output/snake.svg" alt="Snake animation" />
+
+###
